@@ -11,7 +11,7 @@ public class demo2 {
 
 				// Body of loop that will execute minimum
 				// 1 time for sure no matter what
-				System.out.println("welcome in my website");
+				System.out.println("welcome in my new website");
 				i++;
 			}
 
